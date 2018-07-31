@@ -2,7 +2,7 @@ package coreJava;
 
 public class Palindrome {
 	
-	private static boolean isPalindrome(String str) {
+	public static boolean isPalindrome(String str) {
 		if (str == null)
 			return false;
 		StringBuilder strBuilder = new StringBuilder(str);
@@ -10,7 +10,7 @@ public class Palindrome {
 		return strBuilder.toString().equals(str);
 	}
 	
-	private static boolean isPalindromeString(String str) {
+	public static boolean isPalindromeString(String str) {
 		if (str == null)
 			return false;
 		int lenght = str.length();
