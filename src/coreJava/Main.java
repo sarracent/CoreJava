@@ -7,7 +7,7 @@ public class Main {
 		System.out.println(Palindrome.isPalindrome("abA"));
 		System.out.println(Palindrome.isPalindromeString("aba"));
 		System.out.println(RemoveChar.removeChar("caca", 'c'));
-
+		RotateArray.rotatearray();
 	}
 
 }
