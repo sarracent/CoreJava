@@ -8,6 +8,7 @@ public class Main {
 		System.out.println(Palindrome.isPalindromeString("ababa"));
 		System.out.println(RemoveChar.removeChar("caca", 'c'));
 		System.out.println(StringPalindromeTest.checkPalindrome("abcba"));
+		StringToChar.stringToChar();
 		RotateArray.rotatearray();
 	}
 
