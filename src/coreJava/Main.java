@@ -1,7 +1,5 @@
 package coreJava;
 
-import java.util.Arrays;
-
 public class Main {
 
 	public static void main(String[] args) {
@@ -14,8 +12,13 @@ public class Main {
 		JavaStringSplit.stringSplit();
 		StringToByteArray.stringToByteArray();
 		ByteArrayToString.byteArrayToString();
-		RotateArray.rotatearray();
+		StringConcatenationExample.concatString();
+		StringConcatenationExample.concatWithStringBuffer();
+		StringConcatenationExample.concatWithStringBuilder();
+		StringConcatenationExample.comparePerformanceStringConcat();
 		
+		RotateArray.rotatearray();
+
 	}
 
 }
