@@ -16,6 +16,10 @@ public class Main {
 		StringConcatenationExample.concatWithStringBuffer();
 		StringConcatenationExample.concatWithStringBuilder();
 		StringConcatenationExample.comparePerformanceStringConcat();
+		MultidimensionalArrayExample.multidimensionalArrayExample();
+		JavaArrayOfArrayList.javaArrayofArraylist();
+		JavaArrayListOfStringArray.javaArrayListOfStringArray();
+		JavaArrayListOfObjectArray.javaArrayListOfObjectArray();
 		
 		RotateArray.rotatearray();
 
