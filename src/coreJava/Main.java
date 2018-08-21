@@ -20,6 +20,8 @@ public class Main {
 		JavaArrayOfArrayList.javaArrayofArraylist();
 		JavaArrayListOfStringArray.javaArrayListOfStringArray();
 		JavaArrayListOfObjectArray.javaArrayListOfObjectArray();
+		StringToArrayExample.stringToArrayExample();
+		JavaArraySort.javaArraySort();
 		
 		RotateArray.rotatearray();
 

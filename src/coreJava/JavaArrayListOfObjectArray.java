@@ -40,8 +40,6 @@ public class JavaArrayListOfObjectArray {
 	/**
 	 * A sample class to use in arraylist of arrays
 	 * 
-	 * @author pankaj
-	 * 
 	 */
 	public class A {
 		private String name;
